@@ -3,10 +3,10 @@ Final project of the Getting and Cleaning Data course from coursera
 
 This repository contains two files in addition to this README file.
 
-1) File "run_analysis.R" contains a code to read and clean the data on the movement
+1. File "run_analysis.R" contains a code to read and clean the data on the movement
 of several users obtained with the Samsung Galaxy S smartphone. 
 
-2) File CodeBook.md contains a description of the different variables
+2. File CodeBook.md contains a description of the different variables
 contained in the tidy dataset produced by the "run_analysis.R" script.
 
 
